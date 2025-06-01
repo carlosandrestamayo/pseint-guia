@@ -1,0 +1,4 @@
+- [Inicio](README.md)
+- [Temario](temario.md)
+- [Algoritmos](01_Algoritmos/ejercicio1.md)
+- [Tipos de Datos](02_Tipos_Datos/ejercicio1.md)
